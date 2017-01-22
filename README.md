@@ -54,8 +54,13 @@ The app is not ready for production yet so this part is incomplete.
 
 Assumptions made about production:
 - Operating system: Ubuntu 12.04 or greater
+- Application will be running in it's own isolated environment, and a virtualenv is not needed.
+- Apache httpd server is used to serve app using mod_wsgi.
+- All static files are served from Apache using a redirect from url `/static/` to a static documents folder. This folder is created using `python manage.py collectstatic`.  This is not necessary in development
 
 ###Technologies used:
 - Django web framework and plugins for django listed in requirements.txt
 - Twitter Bootstrap css and javascript library
 - jQuery
+
+Javascript and CSS files are being served over CDN and not committed to teh repo.
