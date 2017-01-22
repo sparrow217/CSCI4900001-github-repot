@@ -3,3 +3,4 @@
 ###List of contributors by Github username:
 - sparrow217
 - jambunjo
+- jakeharding
