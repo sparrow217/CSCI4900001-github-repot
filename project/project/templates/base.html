@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>{% block doc_title %}Repo Health Assessment{% endblock %}</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        {% block more_css %}{% endblock %}
+    </head>
+
+    <body class="container">
+        {% block body_content %}
+        {% endblock %}
+    </body>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-git.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    {% block more_js %}{% endblock %}
+
+</html>
