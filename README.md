@@ -5,12 +5,12 @@ Spring2017
 
 The Django web framework is used in the project to leverage quick development and the third party packages available.
 
-Python requirements are kept in the requirements.txt file, and is generated using `pip freeze > requirements.txt`.
+Python requirements are kept in the requirements.txt file, and this file is generated using `pip freeze > requirements.txt`.
 
-Python 3.5 is recommended for this setup.  It can be downloaded and installed at [python.org](python.org).
+Python 3.5 is recommended for this project.  It can be downloaded and installed at [python.org](python.org).
 
 ###Development Environment
-A Unix dev environment is recommend because the setup instructions provided are known to work in these environments using a bash terminal.  The instructions may work in a Windows bash terminal but have not been tested.  Sqlite3 is used as a lightwieght DBMS for development, and will need to be installed.
+A Unix dev environment is recommended because the setup instructions provided are known to work in these environments using a bash terminal.  The instructions may work in a Windows bash terminal but have not been tested.  Sqlite3 is used as a lightwieght DBMS for development, and will need to be installed.
 
 ###Production Environment
 A Linux production environment is recommmended, and Ubuntu version 12 and greater is prefered.  A database will be needed and configuration for the database will need to be provided.  Postegres is the preferred DBMS.
@@ -20,7 +20,7 @@ A Linux production environment is recommmended, and Ubuntu version 12 and greate
 Developers develop on many projects, and each project has it's own dependancies or deps.  
 For this reason, a virtual environment is created on the developer's machine in order to isolate Python dependancies between projects.  
 Virtualenv and virtualenvwrapper are used to create and maintain the environment and need to be installed in the base Python using the pip command line tool.  
-An expalnation of how to install pip is [here](https://pip.pypa.io/en/stable/installing/), but if you can run `which pip` and see a result, you have pip installed.  
+An explanation of how to install pip is [here](https://pip.pypa.io/en/stable/installing/), but if you can run `which pip` and see a result, you have pip installed.  
 To install virtualenv and virtualenvwrapper use:
   `pip install virtualenv virtualenvwrapper`
 and wait for a success message.
@@ -48,3 +48,14 @@ Run `python manage.py runserver` to start the built in dev server, and navigate 
   - Shows path python version.
 - `python --version` 
   - Show current version of Python used by the command line command.
+
+###Production setup
+The app is not ready for production yet so this part is incomplete.
+
+Assumptions made about production:
+- Operating system: Ubuntu 12.04 or greater
+
+###Technologies used:
+- Django web framework and plugins for django listed in requirements.txt
+- Twitter Bootstrap css and javascript library
+- jQuery
