@@ -3,8 +3,6 @@ Spring2017
 
 #This is our readme for our project.
 
-The Django web framework is used in the project to leverage quick development and the third party packages available.
-
 Python requirements are kept in the requirements.txt file, and this file is generated using `pip freeze > requirements.txt`.
 
 Python 3.5 is recommended for this project.  It can be downloaded and installed at [python.org](python.org).
