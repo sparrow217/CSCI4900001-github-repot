@@ -1,0 +1,6 @@
+repos taken from:
+tensorflow
+How to make a computer operating system
+the silver searcher
+atom
+bootstrap
