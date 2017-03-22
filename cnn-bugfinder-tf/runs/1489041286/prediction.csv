@@ -1,0 +1,418 @@
+modernize choice of default languages shipped with atom,1.0
+option to make unsaved files more obvious \?,1.0
+browser sync plugin for brackets,1.0
+custom key to run actionscript or launch service on mac,1.0
+a visual tree with media query breakpoints and other elements like in coda,1.0
+enhanced live preview element highlight,1.0
+show function syntax for functions,1.0
+add suppot for django web framework \( python \),1.0
+check in check out feature,1.0
+dropping a file from the project tree into the editor will insert its url,1.0
+is there a way to remove from a zset only when the score of value meets certain condition \?,1.0
+how to run a redis docker instance with a different port rather than 6379,1.0
+cmd compile make available as a library,1.0
+suggestion for optional parameter with type 'never',1.0
+variable should be defined as 'let' not 'const' because it is changing,1.0
+i had to escape the escape on the brackets,1.0
+update contributing guidelines for adding project lifeline,1.0
+learn how a stack works insufficient tests,1.0
+show me my public profile redirects to map,1.0
+built in higher order functions used \( way \) before their tutorial,1.0
+manually add recent pr changes to new curriculum seed files,1.0
+feature idea multi monitor mode,1.0
+global scope and functions on beta freecodecamp,1.0
+chrome dev tools console page should include mention of console table \( \),1.0
+feature peer reviews for advanced challenges,1.0
+testing objects for properties needs clarification,1.0
+question for multi users,1.0
+random theme from list,1.0
+write a function in zshrc that can take a parameter and can handle flags on macos,1.0
+theme documentation,1.0
+is it possible to display the command behind the alias that is being run \?,1.0
+how to complete file paths like native zsh and bash \?,1.0
+please rethink the experience for new users,1.0
+duplicate or obsolete history options,1.0
+can add some autocomplete respect the project podfile for the zsh plugin \?,1.0
+how ssh autocomplete hosts list is being generated \?,1.0
+has the prompt in avit theme gone pink for anyone else \?,1.0
+overriding the default colors,1.0
+how to search in utf8 documents \?,1.0
+filetype option for listing directories like `find type d` \?,1.0
+assembly language should take include files into account,1.0
+does it support powershell \?,1.0
+line numbers in pipe output,1.0
+running ag hidden searches git directory,1.0
+implement zip file streaming,1.0
+the regular expression syntax used in ag should be documented in help section,1.0
+"files are ignored in subdirectories that partially match directories specified in gitignore , unlike git",1.0
+gitignore files in subdirectors are not taken in to acount when searching files,1.0
+add information about msys2 to readme wiki,1.0
+glob pattern not matching as expected,1.0
+searching for literal filename gives odd results,1.0
+more substantial documentation,1.0
+opensuse installation notes,1.0
+implement searching in zip files,1.0
+only search for directory,1.0
+limit number of results,1.0
+"visual alignment of results , and differently lengthed line numbers",1.0
+"list regex flavor options in readme , man page",1.0
+configurable file types as in ack,1.0
+any way to print non matches \?,1.0
+it is not possible to combine vimgrep and only matching,1.0
+feature request make version print compile time options,1.0
+feature request add x line regexp \( match whole line \) option,1.0
+following symbolic link directory junctions on windows,1.0
+support for inclusion via agignore,1.0
+truncate matching line for compressed obfuscated single line files,1.0
+smart case behaves unintuitively with negative character classes,1.0
+add matching lines command line option \( as grep count \),1.0
+option validations needed with g,1.0
+add link to windows port to readme,1.0
+support for command line exclude patterns \?,1.0
+translate into portuguese,1.0
+alternative completed guide on os development,1.0
+translate into korean,1.0
+makefile commands for building the kernel,1.0
+how to setup my development environment \? can you tell me in detail \?,1.0
+how i can run on windows,1.0
+can i translate into chinese \?,1.0
+will you continue writing the book \?,1.0
+it has been discontinued \?,1.0
+doc on scatter nd not clear about concurrent updates,1.0
+feature requests erfcinv,1.0
+difference of allocate persistent \( \) and allocate temp \( \),1.0
+slicing a tensor by an index tensor in tensorflow,1.0
+sparsetensor constructor change not noted as a breaking change in 1 0,1.0
+direct access to tensor buffers in c interface,1.0
+add to contrib single image random do stereograms for data analysis,1.0
+make quantize graph importable,1.0
+"make tf tensor 's magic functions \( e g , ` add \( \) ` \) play nice with unknown types",1.0
+clarify migration from session bundle exporter to saved model builder savedmodelbuilder,1.0
+method log prob with logits \( \) for dirichlet,1.0
+enhancement redesigning tensorflow 's input pipelines,1.0
+add python graph transform examples,1.0
+feature request tranponse of separable conv2d \?,1.0
+how could i get the weights from the checkpoint file saved using tensorflow slim \?,1.0
+native windows libraries for java \?,1.0
+hyper parameter search in tensorflow,1.0
+layer for 3d convolution transpose,1.0
+feature request embedding lookup gradient,1.0
+making the urls in the documentation clickable,1.0
+provide a way to clear variable and name scope,1.0
+visualize experiment arguments in tensorboard,1.0
+feature nadam optimizer,1.0
+feature hide metrics for which data exists for zero runs,1.0
+feature tensorboard scalars simple way of setting y axis to start at 0,1.0
+status of allocator api,1.0
+feature request get available gpu memory,1.0
+hyperbolic functions,1.0
+implement batch renormalization in tf,1.0
+feature add reduce average \( weighted reduce mean \),1.0
+change `dim` to `axis` for neural network classification ops to match others for the tf 1 0 0 api \?,1.0
+add queuebase is closed \( \),1.0
+feature request separable convolutions in 3d,1.0
+feature request equivalent of np clip,1.0
+feature request multi label binarizer \( k hot \),1.0
+let tf contrib layers batch norm normalize over more axes than just the last one,1.0
+tensorboard please improve log scale plots,1.0
+feature request an op that returns bytes in use for its device,1.0
+is there any gpu implementation of tf stack for int64 \?,1.0
+add maven artifacts to central mvnrepository,1.0
+get matching files issue,1.0
+rename parameter in exponential distribution,1.0
+keep dims vs keepdims,0.0
+contrib support on windows,1.0
+export meta graph option in image retraining,1.0
+add contrib tfprof to cmake build,1.0
+weird behavior of tf tensordot when shapes are partly known,1.0
+nestable custom getters,1.0
+add summary feed dict support to tf train superviso,1.0
+allow dynamic summary names in new summary interface,1.0
+feature request gradient for qr op,1.0
+bash argument completion for tensorboard,1.0
+change draw bounding box \( \) label input to allow different number of inter batch boxes,1.0
+support of gradient for tf mod,1.0
+no real code example for using the tensorboard embedding tab,1.0
+gpu kernel for tf random shuffle,1.0
+request for distribution of prebuilt headers and libraries,1.0
+allow using raw values for projector \?,1.0
+fast layer normalization gpu kernel,1.0
+feature request second derivatives for pooling operations,1.0
+using classifiers with scikit learn ensemble methods,0.0
+is it possible to implement spatial pyramid pooling layer with tensorflow \?,0.0
+unintuitive error messages when using functions that require a axis parameter,1.0
+support distributed aggregation in embedding lookup sparse,1.0
+add convert placeholders to constants to tensorflow,1.0
+feature request bivariate multivariate gaussian cdf,1.0
+model exporting does not use optimize for inference lib,1.0
+optimize for inference py should remove dropout operations,1.0
+async prefetching queue data on gpu,1.0
+universal dataset generation toolkit \?,1.0
+api pages could use some search optimization,1.0
+rename argument names in tf train exponential decay \( \),1.0
+more programmatically configurable tensorboard graph visualization,1.0
+better support for initializing without explicit initializer for tf string,1.0
+please make the documentation headlines linkable clickable,1.0
+better support for initializing variables that depend on each other,1.0
+unable to evaluate dense tensor obtained from sparse complex tensor,0.0
+implement numpy style boolean indexing,1.0
+implement advanced indexing \( and mixed basic advanced \),1.0
+sparse lookup tables for tf nn embedding lookup spars,1.0
+support for native half float computation \( float16 fp16 \),1.0
+feature request better handling of concurrent execution to prevent unnecessary out of memory failures,1.0
+tensorboard should update browser location on tab changes,1.0
+can we have a feature for max out activation function \?,1.0
+unclear documentation and behavior for sampler in tensorflow,1.0
+optimizer classes do not support complex variables,1.0
+use basic neural network subroutines \( bnns \) on ios,1.0
+numerically stable summation methods,1.0
+support complex numbers in tensor transformation operations,1.0
+feature request multi epoch alternative to tf queuebase close \( \),1.0
+feature needed configuration file,1.0
+add shuffling option to tf train batch which handles variable length sequence,1.0
+feed previous argument for basic rnn seq2seq,1.0
+make data feeder for sparse matrices,1.0
+implement an efficient assignmatmul \( \) for general blas gemm pattern,1.0
+need force gpu if available for tests,1.0
+should n't tensorboard warn you that not all summaries have loaded yet \?,1.0
+support different horizontal axises for different scalar summaries,1.0
+request equivalent of theano clone \( \) to dynamically replace subgraphexpose tensorflow build details,1.0
+give a convenient way to retrieve shadow variables created by exponentialmovingaverage,0.0
+provide sugar for insuring gradient computation of an op is put on the desired device,1.0
+provide gpu implementations for resize image methods,1.0
+request for angle,1.0
+need better error message for error in checkpoint loading,1.0
+support more image formatsimplement fast fourier transform ops,1.0
+warn when calling session run \( \) on a very large scatter,1.0
+allow adding and deleting graph nodes and edges in tensorboard,1.0
+make tensorflow compatible with pypy,1.0
+should check whether n class is zero before calling sample n \( \) in mixture py,1.0
+suggestion form validation icons should be displayed with a generic class \( v4 alpha \),1.0
+"standardize header , footer , and content languageadd utility class for overflow property",1.0
+add slider and toggle components,1.0
+feature burger menu on desktop,1.0
+accessibility custom improvement allow badge text color customisation,1.0
+rethinking the usage of aria expanded in collapsible body in favor of aria hidden,1.0
+popover tether on window resize,1.0
+navbar nav link hardcoded padding,1.0
+increasing card height after use select,1.0
+utility for the flex grow property,1.0
+"expand the sizing utility to allow for responsive breakpoints like w xl 50 \( css , feature , v4 \)",1.0
+dropdown closing on mousedown instead of mouseup,1.0
+refactor bootstrap carousel,1.0
+"close current open modal window , open another that we clicked and keep modal open on body",1.0
+we can add prefix for container,1.0
+determine if issues are bugs or not,1.0
+repository comments feb 13,1.0
+alternative sign in path if remote authentication fails,1.0
+custom error templates 2 0,1.0
+remove url input fields for uploads and `filestorage false` config,1.0
+alamofire responseserializationfailurereason inputfilereadfailed when downloading large files ask question,0.0
+error converting code from swift 2 to 3,0.0
+invalid json error when calling rawdata \( \),0.0
+nsnumber caused a problem in linux,0.0
+using nsdecimalnumber to parse double values leads to precision loss,0.0
+when deleting first line in file diff shows that second line is deleted,0.0
+newly added project folder in tree view disappears after window reload in 1 15 beta 4,0.0
+window close does not trigger save window state,0.0
+improper display of long indented hyperlinks in text files with soft wrap,0.0
+atom closes without prompting to save,0.0
+unable to save a cpu profile,0.0
+"with invisibles on , hard tabs render larger than they should",0.0
+renaming split files sometimes renames the wrong split,1.0
+select to beginning or end of word in macos sierra save dialog not working,0.0
+paste indentation issue with auto indent off,0.0
+grapheme clusters are not properly supported,0.0
+problems editing mixed german syriac text,0.0
+package settings keybindings disappear after unchecking enable box,0.0
+subword selection behaves differently for upper case and lower case,0.0
+can not dismiss no update available window if opening menu again before the update check finishes,0.0
+cursor in unexpected position when moving it while selecting,0.0
+missing first letter on file operations,0.0
+whitespace preceding a comment is not the comment itself,0.0
+scrollbar not refreshing when pasting code,0.0
+parts of window dont render appear black,0.0
+lots of file tabs will squeeze the main window narrower,0.0
+ca n't get dir colors to work,0.0
+failed installation,0.0
+install fails due to missing zsh,0.0
+docker build causes command not found,0.0
+scripting installing on my zsh stops the script,0.0
+problems with sublimetext plugin and tmux,0.0
+running on bash on ubuntu on windows not working,0.0
+yarn plugin out of date,0.0
+command history not working between sessions new tabs,0.0
+prompt for git repository is low on big repo,0.0
+no error if plugins are separated by comma,0.0
+error in installing oh my zsh,0.0
+tab completion not working,0.0
+completion knife data bag from file does n't complete path,0.0
+git prompt status is slow on cygwin,0.0
+uninstall instructions do n't work out of the box,0.0
+"opening files with emacsclient , creates a second frame",0.0
+autocomplete not working correctly with filenames containing spaces,0.0
+safe paste plugin breaks home end keys,0.0
+incorrect checksum for freed object object was probably modified after being freed,0.0
+xcode plugin delete derived data bug,0.0
+ag does not print filename and line numbers when started in subshell,0.0
+false positives and negatives in filename printing modes,0.0
+searching root reboots my computer and corrupts my zsh history,0.0
+problem with paths longer than 260 on windows,0.0
+stdout cluttered with no such file or directory even when that directory is ignored,0.0
+phantom line in result if file 's last line contains lf,0.0
+files with extensions with multiple dots are not recognized in gitignore,0.0
+huge column numbers when matching newline,0.0
+many file type classes are not determinable by extension alone,0.0
+invert match with an empty line as pattern hangs or is slow,1.0
+segmentation fault when using a specific regex pattern,0.0
+searching compressed files like big file txt has several problems,0.0
+global default gitignores are not respected,0.0
+matching whole words fails in some cases,0.0
+ag hangs on a huge js file \( and the calling shell with it \),0.0
+"case insensitive , literal search for utf does not work",0.0
+search leaves garbage on next command line,0.0
+terminal unuseable after ctrl c,0.0
+ag stalls in the middle of search \( but ack works \),0.0
+failed to find occurence in file with specific contents,0.0
+the system cannot find the path specified,0.0
+agignore not using the same patterns as gitignore,0.0
+final newline shows up as blank line with c option,0.0
+ignore file in subdirectory not applied properly,0.0
+bash completion scripts gets installed in the wrong place,0.0
+case insensitive search fails to find special chars \( german umlaut \),0.0
+files without matches does not work properly,0.0
+matched line not ending with eol breaks the display with nogroup,0.0
+searching utf 8 on mac is always case sensetive,0.0
+print long lines is documented but not implemented,0.0
+404 not found big time,0.0
+qemu command is not now available to ubuntu 14 04 lts,0.0
+"unexplained files , independent src directories for each chapter",0.0
+image retrainning can not run,0.0
+i can not run my code tensorflow,0.0
+libxsmm build errors with python 3,0.0
+unable to install tensor flow using pip,0.0
+"import tf fails in imp find module \( ' pywrap tensorflow internal' ,",0.0
+valueerror ' loss const' is not a valid node name,0.0
+tf nn moments produces nans with axes 1,0.0
+error while install tensorflow via recommended method on getting started guide,0.0
+when using convert to tensor the variable must have same value format,0.0
+centos failed call to cuinit curesult \( 1 \),0.0
+fail to build tensorflow from source unexpected pipe read status,0.0
+multi gpu inference using fifo queues issue in tf v1 0 0,0.0
+"hi , i am using tf 1 0 0 on ubuntu 16 04 64bit os , i also meets this error , can you help to resolve it , thank you",0.0
+unable to run tensorflow on android through android studio,0.0
+error installing tenserflow,0.0
+"tensorboard ca n't load 5 audio summaries , broken pipe errortensorflow upgrade to 1 0 0 breaking import",0.0
+broken link in adding a new op to zero out op 1 py,0.0
+obsfucate names spelled wrong,0.0
+quantize graph round and quantize modes are broken,0.0
+i can successfully open cupti64 80 dll library but it seems the program run all the time and will never stop,0.0
+double free or corruption \( ! prev \) in docker image tensorflow tensorflow 1 0 0,0.0
+importerror cannot import name model fn,0.0
+get shape \( \) does not work for output of tf image resize nearest neighbor \( \),0.0
+compilation failure on os x w xla,0.0
+fails when atrous rate is higher than 280,0.0
+changing computer make the pretrained model fail,0.0
+import meta graph followed by save overwrites the previous checkpoints,0.0
+error message for running tf nn max pool with argmax \( \) on cpu,0.0
+optimization occurs after graph is partitioned across devices,0.0
+inaccuracies in tf reduce sum,0.0
+tf self adjoint eig does not work for complex matrices,0.0
+retrying file system does not use exponential backoff,0.0
+training using multiple gpus returns inf values for loss and nan for grads,1.0
+crashes in tf sparse tensor dense matmul,0.0
+estimator does not catch outofrange error,0.0
+distributed mnist training in synchronous mode raises a valueerror in worker node,0.0
+"tf upgrade do not update concat , tf image resize images",0.0
+tensorflow freezes on ios during session run,0.0
+text classification character rnn py is using gru cell at old location \( compile error \),0.0
+deadlock when decoding tfrecords,0.0
+cannot run a distributed training example with tensorflow v0 12 1,0.0
+incorrect gradient when using tf dynamic stitch and tf gather \?,0.0
+fail with error \( rather than hanging \) when init op requires starting queues \( managedsesssion etc \),0.0
+bug the 2nd saver fails to recognize its checkpoint state file,0.0
+attributeerror 'module' object has no attribute 'legacy seq2seq',0.0
+cannot show stderr when using jupyter,0.0
+extremely inefficient cuda event polling,0.0
+error needed when loading a graphdef created in a newer version,0.0
+crash when training in distribution,0.0
+"flawed memory management allow growth true consumes more memory , causing out of memory",0.0
+strided slice op check failure,0.0
+could not set cudnn filter descriptor cudnn status bad param,0.0
+eigen implemented cpu op is 10 times slower than openmp,0.0
+bug with cifar10 \?,0.0
+thread created by summarywriter not killed,0.0
+"nested scan functions break in gradient calculation , bug \?",1.0
+unreachable statement,0.0
+segfault in runtime executor due to variable overflow,0.0
+dockerfile manual build central repo url is incorrect,0.0
+error when running image retraining example \( retrain py \) with print misclassified test images flag,0.0
+potential unboundlocalerror in error handling context manager,0.0
+no module named tensorflow,0.0
+multiple dequeue ops are optimized away in latest tf,0.0
+wrong argument order for input producer,0.0
+crash when run distributed training,0.0
+incorrect gradient for categorical distribution entropy,0.0
+not registered 'tensorarrayv2' on 12 1 on macos cpu,0.0
+could not destroy cudnn handle cudnn status bad param check failed stream parent \( \) getconvolvealgorithms \( algorithms \),0.0
+memory leak in tensorflow gpu 0 12 1,0.0
+issue with tf one hot \( \) in 0 12 0 in gpu mode \( cuda error illegal address \),0.0
+issue with tensorflow on windows when using tensorforestestimator,0.0
+error in einsum with unspecified dimensions,0.0
+newcheckpointreader does not work for the v2 checkpoint format,0.0
+bug linear 's optional scope argument is ignored,0.0
+constant folding does n't remove control edges,0.0
+tensorboard not working with 0 11 rc1,0.0
+incorrect comment on cifar10 py,0.0
+tensorboard command broken,0.0
+ca n't configure due to undeclared packages inside if android if io,0.0
+seg fault when computing gradient of 3d convolution filter,0.0
+process hanging when using,0.0
+unexpected names in `namedoutputs` tuples when using,0.0
+ca n't construct gradient of gradient,0.0
+poor numerics in cpu tf multinomial,0.0
+tf learn bugs when running dnnclassifier examples,0.0
+error in gradient of reduce prod,0.0
+tensorboard is missing css in lib,0.0
+segfaults on attempting to save a large variable,0.0
+hangs when enqueueing with session timeout specified,0.0
+error running example on gpu,0.0
+fix build bug come from 8041c54,0.0
+saver errors in 0 7 0,0.0
+"failed to enqueue async memcpy from device to host , with latest code \( relapse \? \)",0.0
+thread pool deadlocks on shutdown,0.0
+label image deadlocks,0.0
+deadlock running mnist example in debug mode on gpu,0.0
+"bug report , easy 1 line fix",0.0
+missing image broken link,0.0
+occupies gpu even if it is not compatible,0.0
+tf code crashes python kernel,0.0
+fatal error in tileops invalid combination,0.0
+cuda headers not found when implementing gpu kernel for user op,0.0
+"scrollbar bug on windows 10 with ie 11 , hidpi monitor",0.0
+firefox bug figures break grid,0.0
+disabled button 's tooltip displays on firefox,0.0
+navbar do not work after resize page,0.0
+grunt watch will not work after a bower install,0.0
+card group width issue in ie,0.0
+no visual feedback for buttons with mouse click and on touch devices,0.0
+button element not updated if target id contains colon,0.0
+dropdown inside navbar toggleable xl expands entire navbar when open,0.0
+card headers footers not inheriting styling from card outline variant,0.0
+radio buttons group incorrect aria pressed behavior,0.0
+modal tooltip docs not workin,0.0
+transition issue at loading with chrome,0.0
+navbar toggle button is n't accessible when is in container on ios,0.0
+navbar without collapse for all screen sizes,0.0
+cannot change carousel control colors in v4 alpha 6,0.0
+navbar toggler not aligned same as navbar collapse if navbar brand causes whole navbar element to expand beyond default height,0.0
+flexbox utilities not working with 'nav' tag,0.0
+auto wrap with col does not work in safari,0.0
+incorrect working collapse \( \) method \?,0.0
+custom select border radius has default browser value when enable rounded is set to false,0.0
+navbar sticky top does n't work,0.0
+right aligned button group in fixed navbar missing margin problem,0.0
+flexbox flex column issue in safari 10,0.0
+nav justified not working within navbar,0.0
+modal handleupdate is protected,0.0
+missing button group role attribute,0.0

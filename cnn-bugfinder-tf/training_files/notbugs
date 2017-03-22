@@ -1,0 +1,209 @@
+Modernize choice of default languages shipped with Atom
+Option to make unsaved files more obvious?
+Browser Sync plugin for brackets
+custom key to run actionscript or launch service on mac
+A visual tree with media query breakpoints and other elements like in Coda
+Enhanced live preview element highlight
+Show function syntax for functions
+Add suppot for Django Web Framework (Python)
+Check In / Check Out Feature.
+Dropping a file from the project tree into the editor will insert its url
+Is there a way to remove from a ZSET only when the score of value meets certain condition?
+How to run a redis docker instance with a different port rather than 6379
+cmd/compile: make available as a library
+Suggestion for optional parameter with type 'never'
+Variable should be defined as 'let' not 'const' because it is changing.
+I had to escape the escape on the brackets
+Update contributing guidelines for adding project lifeline.
+Learn How a Stack Works Insufficient Tests
+Show me my public profile redirects to Map
+Built-in higher order functions used (way) before their tutorial
+Manually add recent PR changes to new curriculum seed files
+Feature Idea: Multi-monitor mode
+Global Scope and Functions on beta.freecodecamp
+Chrome Dev Tools: Console page should include mention of Console.table()
+Feature: peer reviews for advanced challenges
+Testing Objects for Properties needs clarification
+question for multi users
+Random theme from list
+Write a function in zshrc that can take a parameter and can handle flags on MacOS
+Theme Documentation
+Is it possible to display the command behind the alias that is being run?
+How to complete file paths like native Zsh and Bash?
+Please rethink the experience for new users.
+duplicate or obsolete history options
+Can add some autocomplete respect the project podfile for the zsh plugin?
+How ssh autocomplete hosts list is being generated?
+Has the prompt in avit theme gone pink for anyone else?
+Overriding the default colors
+How to search in UTF8 documents?
+Filetype option for listing directories like `find -type d`?
+Assembly language should take include files into account
+Does it support PowerShell?
+line numbers in pipe output
+Running ag --hidden searches .git directory
+Implement zip file streaming
+The regular expression syntax used in Ag should be documented in help section
+Files are ignored in subdirectories that partially match directories specified in gitignore, unlike git.
+gitignore files in subdirectors are not taken in to acount when searching files.
+Add information about MSYS2 to readme / wiki
+Glob pattern not matching as expected
+Searching for literal filename gives odd results
+More substantial documentation
+OpenSUSE installation notes
+Implement searching in zip-files
+only search for directory
+Limit Number of Results
+Visual alignment of results, and differently-lengthed line-numbers
+List regex flavor options in README, man page
+Configurable file types as in ack
+Any way to print non-matches?
+It is not possible to combine --vimgrep and --only-matching
+Feature request: make --version print compile-time options
+Feature request: add -x/--line-regexp (match whole line) option
+Following symbolic link directory junctions on Windows
+Support for inclusion via .agignore
+Truncate matching line for compressed/obfuscated single line files
+--smart-case behaves unintuitively with negative character classes
+Add matching lines command line option (as grep --count)
+Option validations needed with -g
+Add link to Windows port to README
+Support for command-line exclude patterns ?
+Translate into Portuguese
+Alternative completed guide on OS development
+Translate into Korean
+makefile commands for building the kernel
+how to setup my development environment? can you tell me in detail?
+How i can run on Windows
+can i translate into chinese?
+Will you continue writing the book ?
+It has been discontinued?
+Doc on scatter_nd not clear about concurrent updates
+Feature requests: erfcinv
+Difference of allocate_persistent() and allocate_temp()
+Slicing a tensor by an index tensor in Tensorflow
+SparseTensor constructor change not noted as a breaking change in 1.0
+Direct access to Tensor Buffers in C++ interface
+ADD to CONTRIB: single_image_random_do_stereograms for data analysis
+Make quantize_graph importable
+Make tf.Tensor's magic functions (e.g., `__add__()`) play nice with unknown types
+Clarify Migration From session_bundle.exporter to saved_model.builder.SavedModelBuilder
+Method log_prob_with_logits() for Dirichlet
+[Enhancement] Redesigning TensorFlow's input pipelines
+Add Python Graph Transform examples
+Feature Request: Tranponse of separable_conv2d?
+How could I get the weights from the checkpoint file saved using tensorflow-slim?
+Native Windows libraries for Java?
+Hyper-parameter search in TensorFlow
+Layer for 3D convolution transpose
+Feature Request: Embedding Lookup Gradient
+Making the URLs in the documentation clickable
+Provide a way to clear variable and name scope
+Visualize experiment arguments in Tensorboard
+Feature: nadam optimizer
+Feature: Hide Metrics for Which Data Exists for Zero Runs
+FEATURE: Tensorboard Scalars: Simple Way of Setting y axis to start at 0
+Status of Allocator API
+Feature request: get available GPU memory
+Hyperbolic functions
+Implement Batch Renormalization in TF
+Feature: Add reduce_average (weighted reduce_mean)
+Change `dim` to `axis` for neural network classification ops to match others for the TF 1.0.0 API?
+Add QueueBase.is_closed()
+Feature request: separable convolutions in 3D
+Feature request: equivalent of np.clip
+Feature request: Multi-label Binarizer (k-hot)
+let tf.contrib.layers.batch_norm normalize over more axes than just the last one
+Tensorboard: Please improve log-scale plots
+Feature Request: an op that returns bytes_in_use for its device
+Is there any GPU implementation of tf.stack for int64?
+Add Maven artifacts to central mvnrepository
+get_matching_files issue
+Rename parameter in Exponential distribution
+keep_dims vs keepdims
+Contrib support on Windows
+Export meta graph option in image retraining
+Add contrib/tfprof to CMake build
+Weird behavior of tf.tensordot when shapes are partly known
+Nestable custom_getters 
+add summary_feed_dict support to tf.train.Superviso
+Allow dynamic summary names in new summary interface
+Feature Request: Gradient for QR op
+Bash argument completion for tensorboard 
+Change draw_bounding_box() label input to allow different number of inter-batch boxes.
+Support of gradient for TF.MOD
+No real code example for using the tensorboard embedding tab
+GPU kernel for tf.random_shuffle
+Request for distribution of prebuilt headers and libraries
+Allow using raw values for Projector?
+Fast Layer Normalization GPU kernel
+Feature request: second derivatives for pooling operations
+Using classifiers with scikit-learn ensemble methods
+Is it possible to implement spatial pyramid pooling layer with tensorflow?
+Unintuitive error messages when using functions that require a axis parameter
+Support distributed aggregation in embedding_lookup_sparse
+add convert_placeholders_to_constants to tensorflow
+Feature Request: Bivariate/multivariate Gaussian CDF
+Model Exporting Does not Use optimize_for_inference_lib
+optimize_for_inference.py should remove Dropout operations
+Async prefetching queue data on GPU
+Universal dataset generation toolkit ?
+API pages could use some search optimization
+Rename argument names in tf.train.exponential_decay()
+More programmatically configurable TensorBoard graph visualization
+Better support for initializing without explicit initializer for tf.string
+Please make the documentation headlines linkable/clickable
+Better support for initializing variables that depend on each other
+Unable to evaluate dense tensor obtained from sparse complex tensor
+Implement NumPy style boolean indexing
+Implement advanced indexing (and mixed basic/advanced)
+sparse lookup tables for tf.nn.embedding_lookup_spars
+Support for native half-float computation (float16/fp16)
+Feature request: better handling of concurrent execution to prevent unnecessary out of memory failures
+Tensorboard should Update Browser Location on Tab Changes
+Can we have a feature for max out activation function? 
+Unclear documentation and behavior for sampler in Tensorflow
+Optimizer classes do not support complex variables
+Use Basic neural network subroutines (BNNS) on iOS
+Numerically stable summation methods
+Support complex numbers in Tensor Transformation Operations
+Feature Request: multi-epoch alternative to tf.QueueBase.close()
+Feature needed: configuration file
+add shuffling option to tf.train.batch which handles variable-length sequence
+feed_previous argument for basic_rnn_seq2seq
+make data_feeder for sparse matrices
+Implement an efficient AssignMatMul() for general BLAS GEMM pattern
+Need force_gpu_if_available for tests
+Shouldn't tensorboard warn you that not all summaries have loaded yet?
+support different horizontal axises for different scalar summaries
+Request: Equivalent of theano.clone() to dynamically replace subgraphExpose TensorFlow build details
+Give a convenient way to retrieve shadow variables created by ExponentialMovingAverage.
+Provide sugar for insuring gradient computation of an op is put on the desired device
+Provide GPU implementations for resize image methods
+Request for angle
+Need better error message for error in checkpoint loading
+Support more image formatsImplement Fast Fourier Transform ops
+Warn when calling session.run() on a very large scatter
+Allow adding and deleting graph nodes and edges in Tensorboard
+Make TensorFlow compatible with PyPy
+Should check whether n_class is zero before calling sample_n() in mixture.py
+Suggestion: Form validation: Icons should be displayed with a generic class (v4-alpha)
+Standardize header, footer, and content languageAdd utility class for overflow property
+Add Slider and toggle components
+[Feature] Burger Menu on Desktop
+Accessibility - custom improvement - allow badge text color customisation
+Rethinking the usage of aria-expanded in collapsible body in favor of aria-hidden.
+Popover tether on window resize 
+Navbar nav-link hardcoded padding
+Increasing card height after use select.
+Utility for the flex-grow property
+Expand the Sizing Utility to allow for responsive breakpoints like "w-xl-50" (css, feature, v4)
+Dropdown closing on mousedown instead of mouseup
+Refactor Bootstrap carousel
+Close current open modal window, open another that we clicked and keep modal-open on body
+we can add prefix for container
+Determine if issues are bugs or not
+Repository Comments Feb 13
+Alternative sign in path if remote authentication fails
+Custom error templates 2.0
+Remove URL input fields for uploads and `fileStorage: false` config
