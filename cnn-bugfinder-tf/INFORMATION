@@ -1,12 +1,18 @@
 example.py is an example of how to use countbugs.py
 
-countbugs.py is the main class for counting bugs
+
+
+All below are modified from:
+https://github.com/dennybritz/cnn-text-classification-tf
+
+
+Modified eval.py: countbugs.py is the main class for counting bugs
 Runs is the stored networks
 data_helpers.py is used to normalize text
 text_cnn.py is the network code
 
 train.py is used to train a network
-training_files is only needed for creating a new network
+Modified rt-polaritydata: training_files is only needed for creating a new network
 
 eval2.py is not needed
 test.txt is not needed
