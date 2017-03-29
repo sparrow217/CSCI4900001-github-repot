@@ -12,18 +12,20 @@ For the Community Health and Sustainability application Jackson and I will creat
 
 
 ###Development Environment
-A Unix dev environment is recommended because the setup instructions provided are known to work in these environments using a bash terminal.  The instructions may work in a Windows bash terminal but have not been tested.  MySQL database will be used to store data within our development environment 
+A Unix dev environment is recommended because the setup instructions provided are known to work in these environments using a bash terminal.  The instructions may work in a Windows bash terminal but have not been tested.  MySQL database version 	
+5.7.17 will be used to store data within our development environment 
 
 
 ###Production Environment
-A Linux production environment is recommmended, and Ubuntu version 12 and greater is prefered.  A database will be needed and configuration for the database will need to be provided.  MySQL is the preferred DBMS.
+A Linux production environment is recommmended, and Ubuntu version 12 and greater is prefered.  A database will be needed and configuration for the database will need to be provided.  MySQL version 	
+5.7.17 is the preferred DBMS.
 
 
 ###Production setup
 The app is not ready for production yet so this part is incomplete.
 
 ###Technologies used:
-The development environment we will be using is a unix/linux environment. Also we will be using the MySQL relational database management system to store data that is extracted from GHTorrent. The application will be hosted on a Ubuntu server instance provided by Anvil. We will be using Python to handle the data on the backend and we will return a CSV file that will contain the data. 
+The development environment we will be using is a unix/linux environment. Also we will be using the MySQL 5.7.17 relational database management system to store data that is extracted from GHTorrent. The application will be hosted on a Ubuntu server instance provided by Anvil. We will be using Python to handle the data on the backend and we will return a CSV file that will contain the data. 
 
 
 ###License 
