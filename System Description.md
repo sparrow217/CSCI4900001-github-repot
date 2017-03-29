@@ -12,7 +12,7 @@ The purpose of the application Jackson and I are developing is to help gather da
 GH Health and Sustainability. We have also identified what development environment and
 systems will be associated with the application. 
 
-	For the Community Health and Sustainability application Jackson and I will create, we
+For the Community Health and Sustainability application Jackson and I will create, we
 decided to focus on obtaining data from GHTorrent about the Github public event timeline.
 Specifically, we are going to obtain data pertaining to issues stored on GHTorrent. The issues
 our application will focus on gathering are the total number of issues, the number of open
@@ -23,7 +23,7 @@ by maintainers.  Our application will also attempt to determine whether an issue
 issue, and not a TODO item.  After discussing the function of the application, we have
 established the development environment and systems.
 
-	A task for us was to find the best suited development environment and systems to
+A task for us was to find the best suited development environment and systems to
 incorporate into our application. After doing research on various technologies, we were able to
 reach a decision about the environment we will be developing the application in and the
 systems which will support its functionality. The development environment we will be using is a
