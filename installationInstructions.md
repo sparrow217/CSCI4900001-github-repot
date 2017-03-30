@@ -19,7 +19,13 @@
 - mysql -u username -p database_name < file.sql 
 - After running the previous command, the database will be copied to local ubuntu instance in VMWare. 
 - Then run the follwoing: pip install numpy 
-- Then run the follwoing : pip install tensorflow
+- Then run the follwoing : pip install tensorflow 
+- copy or save the file issues.py from the repository CSCI4900001-github-repot on GitHub( https://github.com/sparrow217/CSCI4900001-github-repot). The location of the issues.py file on GitHub is CSCI4900001-github-repot/issues/
+- Take the previously copied/saved issues.py file and copy it to the VMWare Ubuntu VMware instance desktop. 
+- Then run the following commands on the Ubuntu terminal 
+- chmod 777 issues.py
+- python ./test.py
+
 
 
 
