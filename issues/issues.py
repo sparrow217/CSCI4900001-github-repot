@@ -21,5 +21,5 @@ try:
 except:
    print "Error: unable to fecth data"
 
-# disconnect from server
+#  disconnect from server
 db.close()
