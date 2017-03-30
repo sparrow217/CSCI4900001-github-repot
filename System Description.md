@@ -14,4 +14,4 @@ the application will focus on gathering are the following:
 
 The development environment that will be used for developing the applicaiton is a unix/linux environment. The application will use MySQL version 	5.7.17 relational database management system to store data that is extracted from GHTorrent. The application will be hosted on a
 Ubuntu server instance provided by Anvil. The application will use Python version 2.7.12 to handle the data on the
-backend and  will return a CSV file that will contain the data. 
+backend and  will return a JSON that will contain the data. 
