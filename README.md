@@ -3,7 +3,7 @@ Spring2017
 
 #This is our readme for our project.
 
-Python requirements are kept in the requirements.txt file, and this file is generated using `pip freeze > requirements.txt`.
+Requirements are kept in requirements.md.
 
 Python 3.5 is recommended for this project.  It can be downloaded and installed at [python.org](python.org).
 
@@ -19,13 +19,14 @@ A Unix dev environment is recommended because the setup instructions provided ar
 ###Production Environment
 A Linux production environment is recommmended, and Ubuntu version 12 and greater is prefered.  A database will be needed and configuration for the database will need to be provided.  MySQL version 	
 5.7.17 is the preferred DBMS.
+More than 40 Gigs of hard drive space is needed.
 
 
 ###Production setup
 The app is not ready for production yet so this part is incomplete.
 
 ###Technologies used:
-The development environment we will be using is a unix/linux environment. Also we will be using the MySQL 5.7.17 relational database management system to store data that is extracted from GHTorrent. The application will be hosted on a Ubuntu server instance provided by Anvil. We will be using Python to handle the data on the backend and we will return a CSV file that will contain the data. 
+The development environment we will be using is a unix/linux environment. We will use the GHTorrent dump to create a Mysql database. The application will be hosted on a Ubuntu server instance provided by Anvil. We will be using Python to handle the data on the backend and we will return a JSON that will contain the data. 
 
 
 ###License 
