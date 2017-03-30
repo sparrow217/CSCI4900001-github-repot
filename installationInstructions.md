@@ -19,8 +19,7 @@
 - mysql -u username -p database_name < file.sql 
 - After running the previous command, the database will be copied to local ubuntu instance in VMWare. 
 - Then run the follwoing: pip install numpy 
-- Then run the follwoing : pip install tensorflow 1.0.0
-
+- Then run the follwoing : pip install tensorflow
 
 
 
