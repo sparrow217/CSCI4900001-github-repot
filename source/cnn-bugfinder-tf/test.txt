@@ -1,0 +1,19 @@
+If email is too long, connected button does not show the email correctly
+Handle invite gracefully when logged in
+the flex-grow property
+Expand the Sizing Utility to
+Editor confined to small scrollable box in Safari
+Ghost 1.0 UI
+url_spec.js fails if travis runs in the middle of the night
+Importing JSON database with wrong date format throws deprecation warning
+Including parentheses in image alt text breaks image upload
+Bringing One-Click/Automatic Updates to Ghost
+Handle setup steps and re-work how we activate the owner user
+Can't upload images on preview screen in mobile form factor
+Add Navigation does not work in v0.11.4
+OAuth login doesn't work in Edge
+Custom error messages ignored for known error types
+Delete all content throws error when subscriber is associated to a post
+Ember Concurrency refactor
+Overhaul of content screen layout
+Modify the RSS Feed content output to fit the Facebook Instant Article
