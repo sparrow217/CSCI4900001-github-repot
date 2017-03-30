@@ -18,7 +18,7 @@
 - Exit MySQL and enter the following command where username is the username you created, file.sql is the extracted mysql dump file, and  database_name is the name of the database that you created: 
 - mysql -u username -p database_name < file.sql 
 - After running the previous command, the database will be copied to local ubuntu instance in VMWare. 
-- 
+- pip install numpy 
 
 
 
