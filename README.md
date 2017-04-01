@@ -19,7 +19,6 @@ A Unix dev environment is recommended because the setup instructions provided ar
 ###Production Environment
 A Linux production environment is recommmended, and Ubuntu version 12 and greater is prefered.  A database will be needed and configuration for the database will need to be provided.  MySQL version 	
 5.7.17 is the preferred DBMS.
-More than 40 Gigs of hard drive space is needed.
 
 
 ###Production setup
