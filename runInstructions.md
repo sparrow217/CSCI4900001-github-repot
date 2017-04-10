@@ -24,7 +24,7 @@
 - Take the previously copied/saved issues.py file and copy it to the VMWare Ubuntu VMware instance desktop. 
 - Then run the following commands on the Ubuntu terminal 
 - chmod 777 issues.py
-- python ./test.py
+- python ./issues.py
 
 
 
