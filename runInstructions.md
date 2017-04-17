@@ -7,7 +7,7 @@
 - Once ubuntu is installed on  VMWare, open the Ubuntu Terminal
 - run the following to install necessary python modules: sudo apt-get install python2.7-mysqldb
 - to install MySQL, run the following in the terminal: 
-- sudo apt-get install mysql-server-5.5
+- sudo apt-get install mysql-server
 - sudo apt-get update
 - sudo apt-get upgrade
 
