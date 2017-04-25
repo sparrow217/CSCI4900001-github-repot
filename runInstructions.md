@@ -6,11 +6,11 @@
 - sudo apt-get install mysql-server
 - sudo apt-get update
 - sudo apt-get upgrade
-- Download the database mysql dump  (2013-10-12) from http://ghtorrent.org/downloads.html 
-- Extract the database dump .gz
 
 The code is setup to use a public version of the database, to use your own database run the following:
 
+- Download the database mysql dump  (2013-10-12) from http://ghtorrent.org/downloads.html 
+- Extract the database dump .gz
 - After running the MySQL installation and extracting the database commands run the following command: 
 - mysql -u root -p
 - When prompted create a username and password
