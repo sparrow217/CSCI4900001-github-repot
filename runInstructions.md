@@ -6,9 +6,10 @@
 - sudo apt-get install mysql-server
 - sudo apt-get update
 - sudo apt-get upgrade
-
 - Download the database mysql dump  (2013-10-12) from http://ghtorrent.org/downloads.html 
 - Extract the database dump .gz
+
+The code is setup to use a public version of the database, to use your own database run the following:
 
 - After running the MySQL installation and extracting the database commands run the following command: 
 - mysql -u root -p
@@ -18,6 +19,8 @@
 - mysql -u username -p database_name < file.sql
   This may take several hours
 - After running the previous command, the database will be copied to local ubuntu instance in VMWare. 
+
+If you did not setup your own database continue here:
 
 - copy or save the file issues.py from the repository CSCI4900001-github-repot on GitHub( https://github.com/sparrow217/CSCI4900001-github-repot). The location of the issues.py file on GitHub is CSCI4900001-github-repot/issues/
 - Take the previously copied/saved issues.py file and copy it to the VMWare Ubuntu VMware instance desktop.
