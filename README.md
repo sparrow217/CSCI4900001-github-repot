@@ -3,12 +3,12 @@ Spring2017
 
 #This is our readme for our project.
 
+###Description
+For the Community Health and Sustainability application Jackson and I will create, we decided to focus on obtaining data from GHTorrent about the Github public event timeline. Specifically, we are going to obtain data pertaining to issues stored on GHTorrent. The issues our application will focus on gathering are the total number of issues, the number of open issues, and the number of issues with no comments. The decision for our application to focus on gathering the previously mentioned issues was made in an effort to provide useful statistics about an aggregate of issues on GitHub that are not being addressed.  Our application will also attempt to find issues that are marked as bugs.  After discussing the function of the application, we have established the development environment and systems.
+
 Requirements are kept in requirements.md.
 
 Python 3.5 is recommended for this project.  It can be downloaded and installed at [python.org](python.org).
-
-###Description
-For the Community Health and Sustainability application Jackson and I will create, we decided to focus on obtaining data from GHTorrent about the Github public event timeline. Specifically, we are going to obtain data pertaining to issues stored on GHTorrent. The issues our application will focus on gathering are the total number of issues, the number of open issues, and the number of open issues with no comments from a maintainer. The decision for our application to focus on gathering the previously mentioned issues was made in an effort to provide useful statistics about an aggregate of issues on GitHub that are not being addressed by maintainers.  Our application will also attempt to determine whether an issue is actually an issue, and not a TODO item.  After discussing the function of the application, we have established the development environment and systems.
 
 The Community Health and Sustainability application will pull data from the Github public event timeline.
 Specifically, the application pulls data about issues stored on GHTorrent. The issues
