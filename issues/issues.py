@@ -2,14 +2,13 @@
 
 import MySQLdb
 import sys
+from connect import connection
 
-# Opens database connection
-db = MySQLdb.connect("opendata.missouri.edu","msr","ghtorrent","msr" )
+db = connection()
 
 cursor = db.cursor()
 
 repo = raw_input('Input a Repository: ');
-
 
 #finds all repos with  the input name
 urlQuery = "SELECT url,id FROM projects WHERE name = '%s'" % (repo)
