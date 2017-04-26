@@ -11,9 +11,9 @@ cursor = db.cursor()
 repo = raw_input('Input a Repository: ');
 
 
+#finds all repos with  the input name
 urlQuery = "SELECT url,id FROM projects WHERE name = '%s'" % (repo)
 
-#finds all repos with  the input name
 try:
    count = cursor.execute(urlQuery)
    results = cursor.fetchall()
@@ -33,6 +33,7 @@ except:
 
 repoId = raw_input('Input Repository Id: ')
 
+#verify repo id
 repoQuery = "SELECT * FROM projects WHERE id = '%s'" % (repoId)
 
 #checks if input id exists
@@ -51,6 +52,7 @@ except:
    print "Error: unable to fetch data"
    sys.exit()
 
+#counts number of issues from the repo with repo_id
 countQuery = "SELECT count(*) FROM issues WHERE repo_id = '%s'" % (repoId)
 issueNum = 0
 
@@ -63,9 +65,9 @@ try:
       
       print("Number of issues: %d" % (issueNum) )
 except:
-   print "Error: unable to fetch data"
+    print "Error: unable to fetch data"
 
-
+#counts the number of issues without comments
 commentQuery = "SELECT count(*) FROM issues LEFT JOIN issue_comments ON issues.id = issue_comments.issue_id WHERE issue_comments.issue_id IS NULL AND issues.repo_id = '%s';" % (repoId)
 
 
@@ -79,6 +81,7 @@ try:
 except:
    print "Error: unable to fetch data"
 
+#counts then number of issues that are closed
 closedQuery = "SELECT DISTINCT count(id) FROM issues INNER JOIN issue_events ON issues.id = issue_events.issue_id WHERE action = 'closed'AND issues.repo_id = '%s';" % (repoId)
 
 try:
@@ -91,14 +94,15 @@ try:
 except:
    print "Error: unable to fetch data"
 
-openQuery = "select count(*) from issues inner join issue_labels on issues.id = issue_labels.issue_id inner join repo_labels on issue_labels.label_id = repo_labels.id  where name = 'bug' AND issues.repo_id = '%s'" % (repoId)
+#counts the number of bugs
+bugQuery = "select count(*) from issues inner join issue_labels on issues.id = issue_labels.issue_id inner join repo_labels on issue_labels.label_id = repo_labels.id  where name = 'bug' AND issues.repo_id = '%s'" % (repoId)
 try:
-   cursor.execute(openQuery)
+   cursor.execute(bugQuery)
    # Fetch the rows
    results = cursor.fetchall()
    for row in results:
       bugNum = row[0]
-      print("Number of Bugs: %d" % ( bugNum) )
+      print("Number of bugs: %d" % ( bugNum) )
 except:
    print "Error: unable to fetch data"
 
