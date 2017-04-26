@@ -13,10 +13,10 @@ For the Community Health and Sustainability application Jackson and I will creat
 The Community Health and Sustainability application will pull data from the Github public event timeline.
 Specifically, the application pulls data about issues stored on GHTorrent. The issues
 the application will focus on gathering are the following: 
-- total number of issues
-- the number of open issues
-- the number of open issues with no comments from a maintainer. 
-- if an issue is an issue, and not a TODO item.  
+- Total number of issues
+- The number of open issues
+- The number of open issues with no comments from a maintainer. 
+- Number of Bugs 
 
 
 ###Development Environment
